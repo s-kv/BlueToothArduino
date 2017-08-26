@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BlueToothArduino</string>
+    <string name="title_discover_devices">Найти устройства</string>
+    <string name="title_tap_to_connect">Устройства найдены. Выберите устройство для подключения</string>
+    <string name="title_no_devices">Нет найденых устройств</string>
+</resources>
